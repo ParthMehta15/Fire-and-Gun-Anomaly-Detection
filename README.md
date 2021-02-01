@@ -31,11 +31,11 @@ If the GitLFS file is not accessible - Download [Weights](https://1drv.ms/u/s!Aj
 python yolo.py --play_video True --video_path videos/fire1.mp4
 ```
 
-[Dataset](https://www.kaggle.com/atulyakumar98/fire-and-gun-dataset)
+[Dataset](https://www.kaggle.com/parthmehta15/anomaly-dataset)
 
 Training done on google collab - [Jupyter notebook](https://colab.research.google.com/drive/1rtBmGPgYQGwpAPkcqqgb_RE6fZj89ceb?usp=sharing)
 
-Demo: [Youtube](https://www.youtube.com/watch?v=KUrOOUEtYzo)
+Demo: [Video](https://www.linkedin.com/posts/parthmehta15_deeplearning-neuralnetworks-ai-activity-6725707478996160512-ixJp)
 
 ### Paper
 [Fire and Gun Violence based Anomaly Detection System Using Deep Neural Networks](https://ieeexplore.ieee.org/document/9155625) <br>
