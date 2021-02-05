@@ -2,7 +2,7 @@
 
 #Here is an updated version that can detect rifles also i addition to gun and fire.
 
-![result](https://raw.githubusercontent.com/atulyakumar97/fire-and-gun-detection/master/screenshots/0.jpg "Model Output")
+![result](https://github.com/ParthMehta15/Fire-and-Gun-Anomaly-Detection/blob/main/images/fire_gun_rifle.jpg "Model Output")
 
 ### How to use yolo.py:
 ```
