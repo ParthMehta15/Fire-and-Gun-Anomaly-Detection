@@ -1,6 +1,6 @@
 # Fire and Gun Detection
 
-![result](https://raw.githubusercontent.com/atulyakumar97/fire-and-gun-detection/master/screenshots/0.jpg "Model Output")
+![result](https://github.com/ParthMehta15/Fire-and-Gun-Anomaly-Detection/blob/main/images/fire_gun.jpg "Model Output")
 
 ### How to use yolo.py:
 ```
