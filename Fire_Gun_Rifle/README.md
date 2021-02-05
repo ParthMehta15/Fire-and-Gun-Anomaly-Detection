@@ -1,4 +1,6 @@
-# Fire and Gun Detection
+# Fire, Gun, Rifle Detection
+
+#Here is an updated version that can detect rifles also i addition to gun and fire.
 
 ![result](https://raw.githubusercontent.com/atulyakumar97/fire-and-gun-detection/master/screenshots/0.jpg "Model Output")
 
@@ -34,11 +36,3 @@ python yolo.py --play_video True --video_path videos/fire1.mp4
 [Dataset](https://www.kaggle.com/atulyakumar98/fire-and-gun-dataset)
 
 Training done on google collab - [Jupyter notebook](https://colab.research.google.com/drive/1rtBmGPgYQGwpAPkcqqgb_RE6fZj89ceb?usp=sharing)
-
-Demo: [Youtube](https://www.youtube.com/watch?v=KUrOOUEtYzo)
-
-### Paper
-[Fire and Gun Violence based Anomaly Detection System Using Deep Neural Networks](https://ieeexplore.ieee.org/document/9155625) <br>
-Proceedings of the [International conference on Electronics and Sustainable Communication Systems - ICESCS 2020](https://ieeexplore.ieee.org/servlet/opac?punumber=9145513) <br>
-ISBN: 978-1-7281-4107-7 <br>
-978-1-7281-4108-4/20/©2020 IEEE <br>
