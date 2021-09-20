@@ -1,6 +1,6 @@
 # Fire and Gun Detection
 
-![result](https://github.com/ParthMehta15/Fire-and-Gun-Anomaly-Detection/blob/main/images/fire_gun.jpg "Model Output")
+![result](https://github.com/ParthMehta15/Fire-and-Gun-Detection/blob/main/images/fire_gun.jpg "Model Output")
 
 
 
